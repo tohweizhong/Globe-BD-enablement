@@ -1,6 +1,6 @@
 # Globe-BD-enablement
 
-Big Data technologies enablement during Philippines assignment
+Big Data technologies enablement at Globe
 
 Notebooks on the following:
 * R
